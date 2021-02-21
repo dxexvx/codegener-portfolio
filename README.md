@@ -3,7 +3,7 @@
 > 장기적인 목표는 개발자 및 사업자를 위한 웹 기반 프로젝트 설계 및 솔루션 제공입니다.
 
 ## 직무기술
-###인프라
+### 인프라
 - CentOS7
 - Nginx
 - Tomcat
@@ -12,7 +12,7 @@
 - MySQL 7
 - Swagger UI
 
-###개발
+### 개발
 - Java 8
 - Spring Boot 2
 - JPA (QueryDSL)
