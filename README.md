@@ -8,7 +8,7 @@
 - Nginx
 - Tomcat
 - Gitlab
-- Nexus
+- Nexus OSS
 - MySQL 7
 - Swagger UI
 
